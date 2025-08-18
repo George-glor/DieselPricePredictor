@@ -1,6 +1,4 @@
-Absolutely! Here's a **professional, clean, and impressive `README.md`** for your **Diesel Price Predictor** project that you can add directly to your GitHub repository. It includes everything in one page: project title, description, features, tech stack, how to use, results, and links.
 
----
 
 ### ✅ `README.md` – Diesel Price Predictor Project
 
@@ -116,33 +114,3 @@ This project shows my ability to:
 - Communicate technical results clearly in a professional report
 - Work independently on end-to-end data science projects
 
----
-
-## 📬 Connect With Me
-
-📱 [GitHub](https://github.com/George-glor) | 🔗 [LinkedIn](https://linkedin.com/in/george-glor)  
-📧 georgeglor40@hotmail.com | 📍 Järfälla, Sweden
-
-> _“I’m a fast learner who enjoys practical problem-solving.” – George Glor_
-```
-
----
-
-### ✅ How to Add This to Your Repo
-
-1. Go to: [https://github.com/George-glor/DieselPricePredictor](https://github.com/George-glor/DieselPricePredictor)
-2. Click the **"Add file" → "Create new file"** button
-3. Name the file: `README.md`
-4. Paste the entire markdown above
-5. Scroll down and click **"Commit new file"**
-
-✅ Your repo will now have a **beautiful, professional README** that impresses recruiters and developers alike.
-
----
-
-Let me know if you want:
-- A **Swedish version** of the README
-- To add **charts/screenshots**
-- To include **model accuracy metrics**
-
-This is a strong project — let’s make sure it shines! 🚀
